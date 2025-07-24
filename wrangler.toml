@@ -1,8 +1,11 @@
-name = "sub"
-main = "src/worker.ts"
+name = "ahsan.tepo1383online.akbar-v2ray"
+type = "javascript"  # 👈 اضافه شده
+main = "akbar-v2ray/tree/main"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
+account_id = "d5d4cc2f47b3c71bf88e5a2b9cc9de4b"
+
 kv_namespaces = [
-  { binding = "settings", id = "KV_NAME" }
+  { binding = "settings", id = "a10f991cae9640a5a0929478699549c0" }
 ]
