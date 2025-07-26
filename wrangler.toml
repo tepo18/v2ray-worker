@@ -2,7 +2,7 @@ nname = "almasi.ali98.v2ray-worker"
 main = "v2ray-worker/worker.js"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
-
+account_id = "79455e137356a49f59076d6e218a1f48"
 kv_namespaces = [
   { binding = "settings", id = "79e84f20a01248dab7ce00f1e6b8f29f" }
 ]
