@@ -1,8 +1,8 @@
-name = "sub"
-main = "src/worker.ts"
+nname = "almasi.ali98.v2ray-worker"
+main = "v2ray-worker/worker.js"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "kv1560" }
+  { binding = "settings", id = "79e84f20a01248dab7ce00f1e6b8f29f" }
 ]
