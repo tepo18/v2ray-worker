@@ -1,11 +1,8 @@
-name = "akbar-v2ray.pages.dev/"
-type = "javascript"  # 👈 اضافه شده
-main = "akbar-v2ray/tree/main"
+name = "sub"
+main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
-account_id = "d5d4cc2f47b3c71bf88e5a2b9cc9de4b"
-
 kv_namespaces = [
-  { binding = "settings", id = "a10f991cae9640a5a0929478699549c0" }
+  { binding = "settings", id = "kv1560" }
 ]
