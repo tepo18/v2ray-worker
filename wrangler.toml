@@ -4,5 +4,13 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "KV_NAME" }
+  { binding = "settings", id = "PUT_YOUR_KV_NAMESPACE_ID_HERE" }
 ]
+
+account_id = "79455e137356a49f59076d6e218a1f48"
+
+github_repo = "tepo18/YOUR_REPO_NAME"
+
+# Optional: اگر deploy نیاز به API token داشته باشه
+# env:
+#   CF_API_TOKEN = "PUT_YOUR_API_TOKEN_HERE"
