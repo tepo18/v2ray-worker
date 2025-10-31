@@ -1,16 +1,10 @@
-name = "almasi.ali98-tepo18"
+name = "v2ray-worker-tepo18"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
+account_id = "YOUR_ACCOUNT_ID"
+
 kv_namespaces = [
-  { binding = "settings", id = "fad023c740f040c68e6b7c92a6e8bddb" }
+  { binding = "settings", id = "YOUR_KV_ID" }
 ]
-
-account_id = "79455e137356a49f59076d6e218a1f48"
-
-github_repo = "tepo18/v2ray-worker"
-
-# Optional: اگر deploy نیاز به API token داشته باشه
-# env:
-#   CF_API_TOKEN = "PUT_YOUR_API_TOKEN_HERE"
