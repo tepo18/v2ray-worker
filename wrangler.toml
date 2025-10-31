@@ -1,4 +1,5 @@
-name = "sab"      # فقط حروف کوچک، اعداد و -
+
+name = "v2ray-worker-tepo18"      # فقط حروف کوچک، اعداد و -
 main = "src/worker.ts"
 compatibility_date = "2025-10-31"
 compatibility_flags = ["nodejs_compat"]
