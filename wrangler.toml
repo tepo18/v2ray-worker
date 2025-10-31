@@ -1,10 +1,10 @@
-name = "v2ray-worker-tepo18"
+name = "v2ray-worker-tepo18"      # فقط حروف کوچک، اعداد و -
 main = "src/worker.ts"
-compatibility_date = "2024-05-29"
+compatibility_date = "2025-10-31"
 compatibility_flags = ["nodejs_compat"]
 
-account_id = "74cbac3e51f4b6e86a23d02c88dc67b4"
+account_id = "74cbac3e51f4b6e86a23d02c88dc67b4"   # اکانت واقعی تو
 
 kv_namespaces = [
-  { binding = "settings", id = "c63c9e34865e4ca186ebee65841a848e" }
+  { binding = "settings", id = "c63c9e34865e4ca186ebee65841a848e" }  # KV واقعی
 ]
